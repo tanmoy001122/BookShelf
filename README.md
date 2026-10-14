@@ -1,7 +1,8 @@
-# BookShelf
-
 
 PORT=5000
+
 # MONGODB_URI=mongodb+srv://lecturer1_db_user:rpAZawRYR33scPzo@cluster0.at4k44y.mongodb.net/bookshelf?retryWrites=true&w=majority
+
 MONGODB_URI=mongodb://localhost:27017/bookshelf
+
 CLIENT_ORIGIN=http://localhost:5173
